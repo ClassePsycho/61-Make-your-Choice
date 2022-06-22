@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+}
+
+.headfont {
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    letter-spacing: 3px;
+    font-weight: 500;
+}
+
+.startingbuttons {
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    font-size: 45px;
+    background-color: #000;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    
+}
+
+.startingbuttons2 {
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    font-size: 45px;
+    background-color: #000;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+}
