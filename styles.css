@@ -11,7 +11,7 @@ body {
     font-weight: 500;
 }
 
-.startingbuttons {
+.prule {
     text-align: center;
     font-family: 'Quicksand', sans-serif;
     color: white;
@@ -23,6 +23,20 @@ body {
     
 }
 
+.startingbuttons1 {
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    font-size: 45px;
+    background-color: #000;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    border-color: #fff;
+    border: 1px solid;
+}
+
+
 .startingbuttons2 {
     text-align: center;
     font-family: 'Quicksand', sans-serif;
@@ -32,4 +46,7 @@ body {
     margin-left: 10%;
     margin-right: 10%;
     margin-top: 10%;
+    border-color: #fff;
+    border: 1px solid;
+    
 }
